@@ -10,6 +10,12 @@ export const GlobalStyle = createGlobalStyle`
 
   :root {
     --primary: #da4d39;
+    --secondary: #107b11;
+    --green: #009c58;
+    --gold: #ffd700;
+    --prata: #c0c0c0;
+    --bronze: #cd7f32;
+
   }
 
   body {
